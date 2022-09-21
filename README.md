@@ -1,6 +1,4 @@
 # testing
 test
 
-yy
-WW
-1
+y
